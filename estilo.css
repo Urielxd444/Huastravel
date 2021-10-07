@@ -1,0 +1,345 @@
+/*Este es un comentario*/
+body
+{
+  width: 1360px;/* repeat-x o y o no-repeat*/
+  height: 768px;
+  background: url("Imagenes/fondo.jpg") ;
+  margin: 0 auto;
+}
+#Banner
+{
+  width: 1360px;
+  height: 150px;
+  background: url("Imagenes/fondo_titulo.jpg");
+  float:left;
+  opacity: .8;
+}
+#Separador_1
+{
+  width: 1360px;
+  height: 5px;
+  background: transparent;
+  float:left;
+}
+#Menu
+{
+  width: 1360px;
+  height: 40px;
+  background: green;
+  float:left;
+}
+ul#Menu
+{
+  text-align: center;
+  padding: 0;
+}
+ul#Menu li
+{
+  display: inline;
+}
+ul#Menu li a
+{
+  color: black;
+  padding: 10px 50px;
+  text-decoration: none;
+}
+ul#Menu li a:hover
+{
+  background: white;
+}
+#Separador_2
+{
+  width: 1360px;
+  height: 20px;
+  background: transparent;
+  float:left;
+}
+#Contenido
+{
+  width: 1300px;
+  height: 1250px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+  opacity: ;
+}
+#ContenidoTODO
+{
+  width: 1300px;
+  height: 2050px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+  opacity: ;
+}
+#Separador_3
+{
+  width: 1360px;
+  height: 10px;
+  background: transparent;
+  float:left;
+}
+#Pie_pagina
+{
+  width: 1360px;
+  height: 90px;
+  background: #4A4D4A;
+  float:left;
+}
+p
+{
+  color:rgba(0,0,0);
+  font-size: 90px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 33px;
+  margin-top: 15px;
+}
+/*p2
+{
+  color:rgba(0,0,0);
+  font-family: Daytona; /*Fuente*/
+  font-size: 30px; /*Tamaño*/
+  font-weight: normal; /*bold*/
+  text-align: center; /* left, center, right*/
+  line-height: 60px; /*Alto de la linea*/
+  text-decoration: none; /*Underline, none, overline, line-through*/
+  text-transform: normal; /*Uppercase, lowercase, capitalize*/
+  letter-spacing: normal; /*Espaciado entre letras*/
+  word-spacing: normal; /*Espaciado entre palabras*/
+  text-shadow: 0px 0px 0px black; /*sombra*/
+}*/
+#Texto
+{
+  font-size: 100px;
+}
+h1
+{
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+}
+h2
+{
+  font-size: 40px;
+  margin-left: 20px;
+}
+h5
+{
+  font-size: 30px;
+  text-align: center;
+}
+h6
+{
+  font-size: 25px;
+  text-align: center;
+}
+#t1
+{
+  font-size: 20px;
+
+}
+#xd
+{
+  opacity: 1;
+  padding-top: 8px;
+}
+#fam
+{
+  float:left;
+  margin-left: 110px;
+}
+#info
+{
+  float: left;
+  margin-left: 400px;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 30px;
+}
+#logo
+{
+  float:left;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+#slp_logo
+{
+  float: right;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+#vidhuas
+{
+  margin-left: 20px;
+  float: left;
+  text-align: center;
+}
+h3
+{
+  margin-left: 20px;
+  float: left;
+  font-size: 40px;
+  margin-right: 400px;
+}
+h4
+{
+  margin-left: 100px;
+  margin-top: 100px;
+  float: left;
+  font-size: 40px;
+  margin-right: 400px;
+}
+#maphuas
+{
+  margin-left: 100px;
+  float: left;
+  text-align: center;
+}
+#TextoR
+{
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#ContenidoR
+{
+  width: 1300px;
+  height: 3300px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#vidatra
+{
+  float:right;
+  margin-right: 80px;
+}
+#tab
+{
+  float: left;
+  margin-left: 80px;
+}
+#Ubi
+{
+  float: left;
+  margin-right: 200px;
+  margin-left: 210px;
+  text-align: center;
+}
+#mapas
+{
+    text-align: center;
+}
+#ContenidoAQUISMON
+{
+  width: 1300px;
+  height: 1700px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#UbiEL
+{
+  float: left;
+  margin-right: 350px;
+  margin-left: 570px;
+  text-align: center;
+  margin-top: 0px;
+}
+#ContenidoELNARANJO
+{
+  width: 1300px;
+  height: 1550px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#ContenidoAXTLA
+{
+  width: 1300px;
+  height: 1500px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#ContenidoSANMARTIN
+{
+  width: 1300px;
+  height: 1550px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#ContenidoTAMA
+{
+  width: 1300px;
+  height: 1640px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#Tabla
+{
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+#ContenidoGAS
+{
+  width: 1300px;
+  height: 2100px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
+#Tabla2
+{
+  text-align: center;
+  margin-left: 267px;
+  margin-top: 40px;
+}
+#Tabla3
+{
+  text-align: center;
+  margin-left: 140px;
+  margin-top: 40px;
+}
+#TextoRB
+{
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+#mapaSan
+{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#insta
+{
+	float: left;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+#twitter
+{
+	float: left;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+#face
+{
+	float: left;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+#ContenidoCONT
+{
+  width: 1300px;
+  height: 360px;
+  background: white;
+  float:left;
+  margin-left: 30px;
+}
